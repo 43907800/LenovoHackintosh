@@ -1,5 +1,5 @@
-### macOS Mojave & High Sierra 
-## Hackintosh your Lenovo Ideapad 310-14IKB
+## macOS Mojave & High Sierra 
+### Hackintosh your Lenovo Ideapad 310-14IKB
 
 - Clover Config file:
 
