@@ -7,13 +7,13 @@ https://github.com/RehabMan/OS-X-Clover-Laptop-Config
 
 - Kexts:
 
-1. https://www.tonymacx86.com/resources/intelgraphicsfixup.337/
+1. https://github.com/lvs1974/IntelGraphicsFixup
 
-2. https://www.tonymacx86.com/resources/lilu.336/
+2. https://github.com/vit9696/Lilu
 
 3. https://www.tonymacx86.com/resources/fakesmc.325/
 
-4. https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
+4. https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
 
 5. https://www.tonymacx86.com/resources/voodootscsync-4-core.285/
 
