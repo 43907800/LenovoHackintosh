@@ -11,13 +11,11 @@ https://github.com/RehabMan/OS-X-Clover-Laptop-Config
 
 2. https://github.com/vit9696/Lilu
 
-3. https://www.tonymacx86.com/resources/fakesmc.325/
+3. https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
 
-4. https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
+4. https://www.tonymacx86.com/resources/voodootscsync-4-core.285/
 
-5. https://www.tonymacx86.com/resources/voodootscsync-4-core.285/
-
-6. https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/tree/master/kexts/AppleBacklightInjector.kext
+5. https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/tree/master/kexts/AppleBacklightInjector.kext
 
 
 - Installation:
