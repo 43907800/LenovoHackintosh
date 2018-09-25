@@ -1,5 +1,5 @@
-### Update: Mojave EFI update is coming as soon as it is released, stay tuned. 
-### Lenovo Ideapad 310-14IKB Hackintosh EFI
+### macOS Mojave & High Sierra 
+## Hackintosh your Lenovo Ideapad 310-14IKB
 
 - Clover Config file:
 
