@@ -1,6 +1,8 @@
 ## macOS Mojave & High Sierra 
 ### Hackintosh your Lenovo Ideapad 310-14IKB
 
+![alt text](https://raw.githubusercontent.com/29satnam/LenovoHackintosh/master/Screenshot.png)
+
 - Clover Config file:
 
 https://github.com/RehabMan/OS-X-Clover-Laptop-Config
