@@ -1,6 +1,5 @@
 # macOS Mojave & High Sierra 
 ##### Hackintosh your Lenovo Ideapad 310-14IKB
------
 
 ## What's not working:
 1. iMessage
