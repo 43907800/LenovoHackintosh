@@ -39,8 +39,8 @@ https://github.com/RehabMan/OS-X-Clover-Laptop-Config
 3. https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/  
 
 ## TouchPad Multi-Gesture fix
-- http://forum.osxlatitude.com/index.php?/topic/1948-elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x/
-- Or you can simply pair up a Magic Trackpad and that will open up the settings of Trackpad in System Prefrences and you can setup according to your needs.
+1. http://forum.osxlatitude.com/index.php?/topic/1948-elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x/
+2. Or you can simply pair up a Magic Trackpad and that will open up the settings of Trackpad in System Prefrences and you can setup according to your needs.
 
 ## Battery Status fix
 1. https://www.tonymacx86.com/threads/guide-how-to-patch-dsdt-for-working-battery-status.116102/
