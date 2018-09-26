@@ -41,9 +41,9 @@ Step 5: Reboot using default ig-platform-id i.e., 0x591b0000
 
 - Brightness fix:
 
-Step 1: https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightinjector-kext.218222/
-Step 2: https://www.tonymacx86.com/threads/fixing-brightness-with-custom-edid.219413/
-Step 3: https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/
+Step 1: https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightinjector-kext.218222/ 
+Step 2: https://www.tonymacx86.com/threads/fixing-brightness-with-custom-edid.219413/ 
+Step 3: https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/  
 
 - TouchPad Multi-Gesture fix:
 
