@@ -50,9 +50,9 @@ https://github.com/RehabMan/OS-X-Clover-Laptop-Config
 https://github.com/Piker-Alpha/ssdtPRGen.sh
 
 ## Wireless
-Replace chip with a BCM94352Z
+- https://www.aliexpress.com/item/WiFi-Wireless-Network-Card-BCM94352Z-NGFF-M-2-Wifi-Bluetooth-4-0-06XRYC-DW1560-802-11AC/32810080278.html?spm=a2g0s.9042311.0.0.14b74c4dUhR2Ql
 
-- Fix Sleep/Wake display glitch:
+## Fix Sleep/Wake display glitch:
 https://www.tonymacx86.com/threads/solved-intel-hd-620-high-sierra-sleep-wake-problem.233174/page-4#post-1637263
 
 
