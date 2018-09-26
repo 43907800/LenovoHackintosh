@@ -1,7 +1,7 @@
 # macOS Mojave & High Sierra 
 ##### Hackintosh your Lenovo Ideapad 310-14IKB
 
-## Specification:
+## Specifications:
 2.71 GHz Intel Core i5 7200 Processor, Intel HD Graphics 620 1536 MB Graphics, 8 GB 2133 MHz DDR4 Memory, 120GB Kingston SSD, 1TB WD 5400RMP HDD and BCM94352Z NGFF M.2 Wifi/Bluetooth
 
 ## What's not working:
