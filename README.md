@@ -15,7 +15,7 @@
 ## Clover Config file:
 https://github.com/RehabMan/OS-X-Clover-Laptop-Config
 
-- Kexts:
+## Kexts:
 https://github.com/lvs1974/IntelGraphicsFixup
 https://github.com/vit9696/Lilu
 https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
