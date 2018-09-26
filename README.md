@@ -54,4 +54,4 @@ Replace chip with a BCM94352Z
 https://www.tonymacx86.com/threads/solved-intel-hd-620-high-sierra-sleep-wake-problem.233174/page-4#post-1637263
 
 
-         If you've got same Laptop model you can just simply use the EFI folder posted above.
+         If you've got same Laptop model you can just simply use the EFI zip posted above.
