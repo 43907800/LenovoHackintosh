@@ -37,6 +37,7 @@ https://github.com/RehabMan/OS-X-Clover-Laptop-Config
 1. https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightinjector-kext.218222/ 
 2. https://www.tonymacx86.com/threads/fixing-brightness-with-custom-edid.219413/ 
 3. https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/  
+4. https://www.tonymacx86.com/threads/solved-backlight-turns-to-full-brightness-after-sleep-or-restart.192065/
 
 ## TouchPad Multi-Gesture fix
 1. http://forum.osxlatitude.com/index.php?/topic/1948-elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x/
