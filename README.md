@@ -6,6 +6,7 @@
 
 ##  Screenshot
 
+![alt text](https://raw.githubusercontent.com/29satnam/LenovoHackintosh/master/ScreenshotCatalina.png)
 ![alt text](https://raw.githubusercontent.com/29satnam/LenovoHackintosh/master/Screenshot.png)
 
 ## Clover Config file
@@ -18,11 +19,12 @@ https://github.com/RehabMan/OS-X-Clover-Laptop-Config
 4. https://www.tonymacx86.com/resources/voodootscsync-4-core.285/
 5. https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/tree/master/kexts/AppleBacklightInjector.kext
 
-## Installation
+## Post Installation (you can also try using my EFI folder direclty).
+## Installation 
 1. Prepare Installation Media using mentioned Kexts and Clover file.
 2. Use fake ig-platform-id for installation and bootup: 0x12345678
 
-## Post Installation
+## Post Installation (you can also try using my EFI folder direclty).
 1. Use the same fake ig-platform-id for first boot like 0x12345678
 2. Install Clover to your macOS drive.
 3. Paste kexts to EFI drive and S/L/E
