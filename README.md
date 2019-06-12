@@ -1,4 +1,4 @@
-# macOS Mojave, High Sierra & Catalina-Beta
+# Catalina-Beta, macOS Mojave & High Sierra
 ##### Hackintosh your Lenovo Ideapad 310-14IKB
 
 ## Specifications
